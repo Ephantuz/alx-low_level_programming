@@ -1,1 +1,0 @@
-These are debugging practice exercise files
